@@ -1,6 +1,6 @@
-# Sample-HRMS-JWT-Spring-Boot
+# Cutom-Token-HRMS-JWT-Spring-Boot
 
-This example project shows how to use jwt token based authentication and authorization on API call. 
+This example project shows how to create and use jwt token using custom payload instead of UserDetails as payload on authentication and authorization. 
 
 API for registering new user: /register
 
