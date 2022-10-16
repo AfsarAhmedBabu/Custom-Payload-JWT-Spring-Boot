@@ -1,4 +1,4 @@
-# Cutom-Token-HRMS-JWT-Spring-Boot
+# Cutom-Payload-HRMS-JWT-Spring-Boot
 
 This example project shows how to create and use jwt token using custom payload instead of UserDetails as payload on authentication and authorization. 
 
